@@ -9,7 +9,7 @@ Android Developer
 Стек Технологий
 
 Java Core, Kotlin, Coroutine и structured concurrency, Android SDK, RecyclerView, MVVM, 
-LiveData, Retrofit, Glide, Firebase, Mobile Ads SDK (альтернатива AdMob от Яндекса), Room.
+LiveData, Retrofit, Glide, Firebase, Mobile Ads SDK (альтернатива AdMob от Яндекса), Room, Hilt
 
 ОПЫТ РАБОТЫ
 
@@ -17,7 +17,7 @@ Pet project:
 Список фильмов кинопоиска Kinopoisk API Unofficial. Пет проект написан на языке Kotlin. Для 
 получения данных использована библиотека Retrofit. Сохранение данных происходит через Room. 
 Асинхронность выполнена на корутинах. Для отрисовки списка и загрузки изображений 
-задействованы RecyclerView и Glide. MVVM, LiveData.
+задействованы RecyclerView и Glide. MVVM, LiveData. DI - Hilt
 GitHub: https://github.com/GeorgievArtemV/kinopoiskPetProject
 База данных и асинхронные запросы(Insert, Query). Использованы библиотеки Room и RxJava
 Github: https://github.com/GeorgievArtemV/EuropeDirectory
