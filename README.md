@@ -29,6 +29,6 @@ Github: https://github.com/GeorgievArtemV/EuropeDirectory
 
 Дополнительная информация
 
-КОНТАКТЫ: +7 (909) 305-47-97. GeorgievArtemV@yandex.com. Tg:@override_fun. Leetcode.
+КОНТАКТЫ: +7 (909) 305-47-97. GeorgievArtemV@yandex.com. Tg:@override_fun. Leetcode: https://leetcode.com/u/GeorgievArtemV/
 
 
